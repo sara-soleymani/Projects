@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bank App - Sara Soleymani (217667809)</string>
+
+    <string-array name="Title">
+        <item>Deposit</item>
+        <item>Withdraw</item>
+        <item>Transfer</item>
+        <item>Print Statement</item>
+    </string-array>
+
+
+
+</resources>
