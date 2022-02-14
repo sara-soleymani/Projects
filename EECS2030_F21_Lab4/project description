@@ -1,0 +1,5 @@
+ an object-oriented program solving aspects of a video channel platform (e.g., YouTube),
+where each video channel has a number of followers, each of which being either one subscribed to the channel and
+watching videos as new ones are released, or one monitoring the channel’s statistis (e.g., average watch time).
+
+Professor:jackie-chenwei-wang - York University
