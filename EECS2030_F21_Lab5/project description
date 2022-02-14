@@ -1,0 +1,11 @@
+n object-oriented program solving aspects of a sequence evaluator, where sequence
+operations may be added to an evaluator and, if compatible, be combined with their results. Here are the relevant
+entities involved in this problem:
+• A sequence operation may either: 1) perform a projection of a sequence over another; 2) determine if a
+sequence occurs within another; or 3) sum prefixes of a sequence. Operations 1) and 2) should be understood
+as binary operations, as they require two input sequences to operate upon.
+• A sequence evaluator, when first created, is specified with a maximum number of operations that may be
+added. Given the list of added operations, a sequence evaluator may either: 1) concatenate operation results,
+if they are all sequences; or 2) perform filtering on operation results, if they are all true/false values.
+
+Professor:jackie-chenwei-wang - York University
