@@ -1,0 +1,12 @@
+an object-oriented program solving a (simplified) online school problem, where there
+is a list of participants registered in courses taught by qualified instructors:
+• Each instructor is characterized by their name, campus phone extension (e.g., 70310), and contact email.
+• Each registration is characterized by its subject title, numerical marks, and instructor (who may not be
+assigned when the course is first created).
+Given a registration object:
+– A grade report may be returned as an array of length 2, e.g., {"B", "Good"}, where the first element
+stores the letter grade and the second element stores its qualitative description. Consider the following
+table summarizing how each numerical marks (assumed to range between 0 and 100) maps to its grade,
+description.
+
+Professor:jackie-chenwei-wang - York University
