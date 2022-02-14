@@ -1,0 +1,13 @@
+ an object-oriented program solving the problem of a (simplified) bank, which provides
+services (i.e., deposit, withdraw, transfer, and print statement) to a collection of up to 6 clients (i.e., when a 7th
+client is attempted to be added to the bank, there should be an error message displayed). Each client can be
+characterized by their name, numerical balance (always displayed with two digits after the decimal point), and a
+history (i.e., collection) of up to 10 transactions (for this you can assume that the user will not complete more than
+10 transactions for each client). Each client should be identified by their name. We may want to perform one of
+the following kinds of transactions:
+• Deposit some input amount of money to a client’s account (identified by their name).
+• Withdraw some input amount of money from a client’s account (identified by their name).
+• Transfer some input amount of money from a client’s account to another client’s account (identified by their
+names).
+
+Professor:jackie-chenwei-wang - York University
